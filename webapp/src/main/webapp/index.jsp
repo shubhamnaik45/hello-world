@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
-    <p>Please fill in this form to create an account for devops project.</p>
+    <h1>New user Register for DevOps Learning with Vardhaman</h1>
+    <p>Please fill in this form to create an account for simple devops project.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning, Devops </h1>
+   <h1> Thankyou, Happy Learning, and Best wishes </h1>
 
   
 </form>
