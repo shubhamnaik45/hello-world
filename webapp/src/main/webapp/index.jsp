@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning with Vardhaman Patil</h1>
-    <p>Please fill in this form to create an account for simple devops project.</p>
+    <h1>Asawari's swayamvar form</h1>
+    <p>Please fill in this form to be in queue of swayamvar</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -24,14 +24,14 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+    <p>By filling this form you are <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <p>Already have filled this form? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning, and Best wishes for you </h1>
+   <h1> Thankyou,and Best wishes for you. Asawari will check and choose </h1>
 
   
 </form>
