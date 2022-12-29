@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New devops learning form</h1>
+    <h1>New devops learning form for beginers</h1>
     <p>Please fill in this form</p>
     <hr>
      
