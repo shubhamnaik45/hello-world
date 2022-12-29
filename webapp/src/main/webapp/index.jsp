@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Asawari's swayamvar form</h1>
-    <p>Please fill in this form to be in queue of swayamvar</p>
+    <h1>New devops learning form</h1>
+    <p>Please fill in this form</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -31,7 +31,7 @@
     <p>Already have filled this form? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou,and Best wishes for you. Asawari will check and choose </h1>
+   <h1> Thankyou,and Best wishes for you. </h1>
 
   
 </form>
