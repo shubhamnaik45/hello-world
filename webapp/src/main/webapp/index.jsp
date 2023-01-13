@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New devops learning for beginers with xyz </h1>
+    <h1>New devops learning for beginers with vardhaman </h1>
     <p>Please kindly fill in this form urgently and fast</p>
     <hr>
      
